@@ -1,4 +1,4 @@
-passwords.txt
+password.txt
 *.csv
 *.xls
 data/*.csv
